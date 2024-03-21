@@ -17,3 +17,5 @@ const client = new BotClient({
 });
 
 client.start();
+
+client.config = config;
