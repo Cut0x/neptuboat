@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+      "discord.js": "^14.14.1",
+      "fs": "^0.0.1-security",
+      "path": "^0.12.7",
+      "simple-djs-handler": "^3.1.0"
+    }
+  }
